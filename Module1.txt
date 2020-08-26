@@ -1,0 +1,13 @@
+Identify and analyze a device that is an IoT device now, but in the past was a non-IoT device. Describe and list the features of the device. Compare the functions of the device in the past to the functions of the device now.
+
+
+
+IoT Device - Washing Machine
+
+
+The washing machine is primarily used for washing and drying the clothes. It comes with two steel tubs, which is an inner tub and the outer tub whose role is to prevent water spillage to other parts of the machine. There are so many control knobs such as to select the load, to select the water inlet such as hot or cold water, to select the mode such as save mode or normal mode and finally a program to select which comes to heavy, normal, light or delicates. In our modern day non-IoT washing machine appliances, the selectivity of the programs varies. The operation of washing machine is filling, agitate, drain and spin. It comes with a clear embedded system where all the functions are done by a microcontroller. All the operations are connected to the microcontroller, when the machine is ON and the program is selected, the microcontroller is triggered and it functions.
+
+Some features of an IoT enabled washing machine are - 
+1. Laundry Planner
+2. Laundry Recipe
+3. HomeCare Wizard

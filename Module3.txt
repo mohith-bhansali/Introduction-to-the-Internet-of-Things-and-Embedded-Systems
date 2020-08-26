@@ -1,0 +1,27 @@
+Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information.
+
+Clock frequency
+Bitwidth of the datapath
+Size of Flash memory
+Number of pins
+Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+
+
+
+
+
+1. ATmega32
+Clock frequency: 1 MIPS
+Bitwidth of the datapath: 8 - bit
+Size of flash memory: 32 KB
+Number of pins: 44
+Does the microcontroller contain an Analog-to-Digital Converter?: Yes
+If so, how many bits of precision does it have?: 10-bit ADC
+
+2. Renesas RX
+Clock frequency: 240 MHz
+Bitwidth of the datapath: 32 - bit
+Size of Flash memory: 512 KB
+Number of pins: 64
+Does the microcontroller contain an Analog-to-Digital Converter?: Yes
+If so, how many bits of precision does it have?: 12-bit ADC
